@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jkr8kfet9-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jkr8kfet9-dotnet-basic
